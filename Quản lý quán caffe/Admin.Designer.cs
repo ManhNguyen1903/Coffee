@@ -51,6 +51,8 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label12 = new System.Windows.Forms.Label();
             this.panel26 = new System.Windows.Forms.Panel();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.button6 = new System.Windows.Forms.Button();
             this.panel25 = new System.Windows.Forms.Panel();
             this.dataGridView4 = new System.Windows.Forms.DataGridView();
             this.panel24 = new System.Windows.Forms.Panel();
@@ -77,6 +79,8 @@
             this.txbTableID = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.panel18 = new System.Windows.Forms.Panel();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.button7 = new System.Windows.Forms.Button();
             this.panel19 = new System.Windows.Forms.Panel();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
             this.panel17 = new System.Windows.Forms.Panel();
@@ -93,6 +97,8 @@
             this.txbCategoryID = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.panel13 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.button5 = new System.Windows.Forms.Button();
             this.panel12 = new System.Windows.Forms.Panel();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
             this.panel11 = new System.Windows.Forms.Panel();
@@ -125,12 +131,8 @@
             this.panel3 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.tabControl1 = new System.Windows.Forms.TabControl();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.button5 = new System.Windows.Forms.Button();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.button7 = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button6 = new System.Windows.Forms.Button();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnAddImage = new System.Windows.Forms.Button();
             this.tabPage4.SuspendLayout();
             this.panel27.SuspendLayout();
             this.panel33.SuspendLayout();
@@ -176,6 +178,7 @@
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.tabControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // tabPage4
@@ -418,6 +421,24 @@
             this.panel26.Name = "panel26";
             this.panel26.Size = new System.Drawing.Size(357, 57);
             this.panel26.TabIndex = 2;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Arial", 12F);
+            this.textBox1.Location = new System.Drawing.Point(8, 18);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(252, 26);
+            this.textBox1.TabIndex = 9;
+            // 
+            // button6
+            // 
+            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button6.Location = new System.Drawing.Point(266, 8);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(83, 40);
+            this.button6.TabIndex = 8;
+            this.button6.Text = "Tìm kiếm";
+            this.button6.UseVisualStyleBackColor = true;
             // 
             // panel25
             // 
@@ -668,6 +689,24 @@
             this.panel18.Size = new System.Drawing.Size(378, 54);
             this.panel18.TabIndex = 2;
             // 
+            // textBox10
+            // 
+            this.textBox10.Font = new System.Drawing.Font("Arial", 12F);
+            this.textBox10.Location = new System.Drawing.Point(19, 17);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.Size = new System.Drawing.Size(252, 26);
+            this.textBox10.TabIndex = 9;
+            // 
+            // button7
+            // 
+            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button7.Location = new System.Drawing.Point(277, 7);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(83, 40);
+            this.button7.TabIndex = 8;
+            this.button7.Text = "Tìm kiếm";
+            this.button7.UseVisualStyleBackColor = true;
+            // 
             // panel19
             // 
             this.panel19.Controls.Add(this.dataGridView3);
@@ -825,6 +864,24 @@
             this.panel13.Size = new System.Drawing.Size(385, 53);
             this.panel13.TabIndex = 2;
             // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Arial", 12F);
+            this.textBox2.Location = new System.Drawing.Point(22, 16);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(252, 26);
+            this.textBox2.TabIndex = 7;
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.button5.Location = new System.Drawing.Point(280, 6);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(83, 40);
+            this.button5.TabIndex = 6;
+            this.button5.Text = "Tìm kiếm";
+            this.button5.UseVisualStyleBackColor = true;
+            // 
             // panel12
             // 
             this.panel12.Controls.Add(this.dataGridView2);
@@ -978,6 +1035,8 @@
             // 
             // panel4
             // 
+            this.panel4.Controls.Add(this.btnAddImage);
+            this.panel4.Controls.Add(this.pictureBox1);
             this.panel4.Controls.Add(this.panel10);
             this.panel4.Controls.Add(this.panel9);
             this.panel4.Controls.Add(this.panel8);
@@ -1145,59 +1204,25 @@
             this.tabControl1.Size = new System.Drawing.Size(871, 490);
             this.tabControl1.TabIndex = 0;
             // 
-            // textBox2
+            // pictureBox1
             // 
-            this.textBox2.Font = new System.Drawing.Font("Arial", 12F);
-            this.textBox2.Location = new System.Drawing.Point(22, 16);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(252, 26);
-            this.textBox2.TabIndex = 7;
+            this.pictureBox1.BackColor = System.Drawing.Color.LightGray;
+            this.pictureBox1.Location = new System.Drawing.Point(180, 252);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(135, 93);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 6;
+            this.pictureBox1.TabStop = false;
             // 
-            // button5
+            // btnAddImage
             // 
-            this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button5.Location = new System.Drawing.Point(280, 6);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(83, 40);
-            this.button5.TabIndex = 6;
-            this.button5.Text = "Tìm kiếm";
-            this.button5.UseVisualStyleBackColor = true;
-            // 
-            // textBox10
-            // 
-            this.textBox10.Font = new System.Drawing.Font("Arial", 12F);
-            this.textBox10.Location = new System.Drawing.Point(19, 17);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.Size = new System.Drawing.Size(252, 26);
-            this.textBox10.TabIndex = 9;
-            // 
-            // button7
-            // 
-            this.button7.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button7.Location = new System.Drawing.Point(277, 7);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(83, 40);
-            this.button7.TabIndex = 8;
-            this.button7.Text = "Tìm kiếm";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Arial", 12F);
-            this.textBox1.Location = new System.Drawing.Point(8, 18);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(252, 26);
-            this.textBox1.TabIndex = 9;
-            // 
-            // button6
-            // 
-            this.button6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.button6.Location = new System.Drawing.Point(266, 8);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(83, 40);
-            this.button6.TabIndex = 8;
-            this.button6.Text = "Tìm kiếm";
-            this.button6.UseVisualStyleBackColor = true;
+            this.btnAddImage.Font = new System.Drawing.Font("Arial", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.btnAddImage.Location = new System.Drawing.Point(45, 252);
+            this.btnAddImage.Name = "btnAddImage";
+            this.btnAddImage.Size = new System.Drawing.Size(83, 40);
+            this.btnAddImage.TabIndex = 7;
+            this.btnAddImage.Text = "Thêm ảnh";
+            this.btnAddImage.UseVisualStyleBackColor = true;
             // 
             // Admin
             // 
@@ -1271,6 +1296,7 @@
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.tabControl1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -1380,5 +1406,7 @@
         private System.Windows.Forms.Button button7;
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnAddImage;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
