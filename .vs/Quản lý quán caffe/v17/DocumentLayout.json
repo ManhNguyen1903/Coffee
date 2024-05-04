@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|d:\\hust\\project2\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|d:\\hust\\project2\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\tablemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|d:\\hust\\project2\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|d:\\hust\\project2\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9A7F4F9-CD39-4EAB-A5D5-FE67D254C8D8}|Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe.csproj|solutionrelative:qu\u1EA3n l\u00FD qu\u00E1n caffe\\flogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,70 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:13:50.145Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs",
-              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\SignUp.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:11:12.845Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "fLogin.cs",
-              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwB4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:05:47.527Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "fLogin.cs [Design]",
-              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
-              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T16:05:45.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TableManager.cs [Design]",
-              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\TableManager.cs",
-              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\TableManager.cs",
-              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\TableManager.cs [Design]",
-              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\TableManager.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:47:57.286Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Admin.cs",
               "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs",
@@ -109,18 +38,45 @@
               "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAIwBcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T14:31:50.088Z"
+              "WhenOpened": "2024-05-04T16:38:11.925Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "fLogin.Designer.cs",
+              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.Designer.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.Designer.cs",
+              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.Designer.cs",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:29:27.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
+              "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs",
+              "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs [Design]",
+              "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T16:27:45.261Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Admin.cs [Design]",
               "DocumentMoniker": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs",
               "RelativeDocumentMoniker": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs",
               "ToolTip": "D:\\HUst\\Project2\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs [Design]",
               "RelativeToolTip": "Qu\u1EA3n l\u00FD qu\u00E1n caffe\\Admin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T13:17:07.096Z"
+              "WhenOpened": "2024-04-24T13:17:07.096Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
