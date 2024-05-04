@@ -31,14 +31,14 @@
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnSignUp = new System.Windows.Forms.Button();
             this.panel6 = new System.Windows.Forms.Panel();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.cbRole = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
             this.panel5 = new System.Windows.Forms.Panel();
-            this.txbEnterPassword = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txb2 = new System.Windows.Forms.Label();
+            this.txbEnterPassword = new System.Windows.Forms.TextBox();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.txbPassword = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txb1 = new System.Windows.Forms.Label();
+            this.txbPassword1 = new System.Windows.Forms.TextBox();
             this.panel3 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.txbUsername = new System.Windows.Forms.TextBox();
@@ -81,7 +81,7 @@
             // 
             // panel6
             // 
-            this.panel6.Controls.Add(this.comboBox1);
+            this.panel6.Controls.Add(this.cbRole);
             this.panel6.Controls.Add(this.label5);
             this.panel6.Location = new System.Drawing.Point(3, 356);
             this.panel6.Name = "panel6";
@@ -89,18 +89,18 @@
             this.panel6.TabIndex = 3;
             this.panel6.UseWaitCursor = true;
             // 
-            // comboBox1
+            // cbRole
             // 
-            this.comboBox1.Font = new System.Drawing.Font("Arial", 12F);
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
+            this.cbRole.Font = new System.Drawing.Font("Arial", 12F);
+            this.cbRole.FormattingEnabled = true;
+            this.cbRole.Items.AddRange(new object[] {
             "Quản lý",
             "Nhân viên"});
-            this.comboBox1.Location = new System.Drawing.Point(16, 36);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 26);
-            this.comboBox1.TabIndex = 2;
-            this.comboBox1.UseWaitCursor = true;
+            this.cbRole.Location = new System.Drawing.Point(16, 36);
+            this.cbRole.Name = "cbRole";
+            this.cbRole.Size = new System.Drawing.Size(121, 26);
+            this.cbRole.TabIndex = 2;
+            this.cbRole.UseWaitCursor = true;
             // 
             // label5
             // 
@@ -115,61 +115,61 @@
             // 
             // panel5
             // 
+            this.panel5.Controls.Add(this.txb2);
             this.panel5.Controls.Add(this.txbEnterPassword);
-            this.panel5.Controls.Add(this.textBox2);
             this.panel5.Location = new System.Drawing.Point(3, 285);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(381, 77);
             this.panel5.TabIndex = 2;
             // 
+            // txb2
+            // 
+            this.txb2.AutoSize = true;
+            this.txb2.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txb2.Location = new System.Drawing.Point(16, 14);
+            this.txb2.Name = "txb2";
+            this.txb2.Size = new System.Drawing.Size(137, 19);
+            this.txb2.TabIndex = 1;
+            this.txb2.Text = "Enter Password:";
+            // 
             // txbEnterPassword
             // 
-            this.txbEnterPassword.AutoSize = true;
-            this.txbEnterPassword.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbEnterPassword.Location = new System.Drawing.Point(16, 14);
+            this.txbEnterPassword.Font = new System.Drawing.Font("Arial", 12F);
+            this.txbEnterPassword.Location = new System.Drawing.Point(16, 33);
+            this.txbEnterPassword.Multiline = true;
             this.txbEnterPassword.Name = "txbEnterPassword";
-            this.txbEnterPassword.Size = new System.Drawing.Size(137, 19);
-            this.txbEnterPassword.TabIndex = 1;
-            this.txbEnterPassword.Text = "Enter Password:";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Font = new System.Drawing.Font("Arial", 12F);
-            this.textBox2.Location = new System.Drawing.Point(16, 33);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(352, 32);
-            this.textBox2.TabIndex = 0;
-            this.textBox2.UseSystemPasswordChar = true;
+            this.txbEnterPassword.Size = new System.Drawing.Size(352, 32);
+            this.txbEnterPassword.TabIndex = 0;
+            this.txbEnterPassword.UseSystemPasswordChar = true;
             // 
             // panel4
             // 
-            this.panel4.Controls.Add(this.txbPassword);
-            this.panel4.Controls.Add(this.textBox1);
+            this.panel4.Controls.Add(this.txb1);
+            this.panel4.Controls.Add(this.txbPassword1);
             this.panel4.Location = new System.Drawing.Point(3, 215);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(381, 77);
             this.panel4.TabIndex = 2;
             // 
-            // txbPassword
+            // txb1
             // 
-            this.txbPassword.AutoSize = true;
-            this.txbPassword.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbPassword.Location = new System.Drawing.Point(16, 14);
-            this.txbPassword.Name = "txbPassword";
-            this.txbPassword.Size = new System.Drawing.Size(92, 19);
-            this.txbPassword.TabIndex = 1;
-            this.txbPassword.Text = "Password:";
+            this.txb1.AutoSize = true;
+            this.txb1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txb1.Location = new System.Drawing.Point(16, 14);
+            this.txb1.Name = "txb1";
+            this.txb1.Size = new System.Drawing.Size(92, 19);
+            this.txb1.TabIndex = 1;
+            this.txb1.Text = "Password:";
             // 
-            // textBox1
+            // txbPassword1
             // 
-            this.textBox1.Font = new System.Drawing.Font("Arial", 12F);
-            this.textBox1.Location = new System.Drawing.Point(16, 33);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(352, 32);
-            this.textBox1.TabIndex = 0;
-            this.textBox1.UseSystemPasswordChar = true;
+            this.txbPassword1.Font = new System.Drawing.Font("Arial", 12F);
+            this.txbPassword1.Location = new System.Drawing.Point(16, 33);
+            this.txbPassword1.Multiline = true;
+            this.txbPassword1.Name = "txbPassword1";
+            this.txbPassword1.Size = new System.Drawing.Size(352, 32);
+            this.txbPassword1.TabIndex = 0;
+            this.txbPassword1.UseSystemPasswordChar = true;
             // 
             // panel3
             // 
@@ -270,17 +270,17 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txbFullName;
         private System.Windows.Forms.Panel panel4;
-        private System.Windows.Forms.Label txbPassword;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.Label txb1;
+        private System.Windows.Forms.TextBox txbPassword1;
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txbUsername;
         private System.Windows.Forms.Panel panel5;
-        private System.Windows.Forms.Label txbEnterPassword;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.Label txb2;
+        private System.Windows.Forms.TextBox txbEnterPassword;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox cbRole;
         private System.Windows.Forms.Button btnSignUp;
     }
 }

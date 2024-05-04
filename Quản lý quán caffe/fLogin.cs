@@ -27,9 +27,11 @@ namespace Quản_lý_quán_caffe
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            TableManager tableManager = new TableManager();
+           // TableManager tableManager = new TableManager();
+           Admin admin = new Admin();
             this.Hide();
-            tableManager.ShowDialog();
+            //tableManager.ShowDialog();
+            admin.ShowDialog();
             this.Show();
         }
     }
