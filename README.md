@@ -1,2 +1,1 @@
-Project 2
-Quản lý quán coffee
+Project 2:Quản lý quán coffee
