@@ -90,18 +90,15 @@
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(561, 46);
             this.panel3.TabIndex = 2;
-            this.panel3.UseWaitCursor = true;
             // 
             // txbPassword
             // 
             this.txbPassword.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.txbPassword.Location = new System.Drawing.Point(122, 8);
-            this.txbPassword.Multiline = true;
             this.txbPassword.Name = "txbPassword";
-            this.txbPassword.Size = new System.Drawing.Size(401, 30);
+            this.txbPassword.Size = new System.Drawing.Size(401, 26);
             this.txbPassword.TabIndex = 2;
             this.txbPassword.UseSystemPasswordChar = true;
-            this.txbPassword.UseWaitCursor = true;
             // 
             // label4
             // 
@@ -122,7 +119,6 @@
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(561, 46);
             this.panel2.TabIndex = 1;
-            this.panel2.UseWaitCursor = true;
             // 
             // txbUsername
             // 
@@ -132,7 +128,6 @@
             this.txbUsername.Name = "txbUsername";
             this.txbUsername.Size = new System.Drawing.Size(401, 30);
             this.txbUsername.TabIndex = 1;
-            this.txbUsername.UseWaitCursor = true;
             // 
             // label3
             // 

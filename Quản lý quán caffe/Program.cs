@@ -16,7 +16,7 @@ namespace Quản_lý_quán_caffe
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new fLogin());
+            Application.Run(new TableManager());
         }
     }
 }

@@ -1,13 +1,13 @@
-D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\bin\Debug\Quản lý quán caffe.exe.config
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\bin\Debug\Quản lý quán caffe.exe
-D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\bin\Debug\Quản lý quán caffe.pdb
+D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\bin\Debug\Quản lý quán caffe.exe.config
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản lý quán caffe.csproj.AssemblyReference.cache
+D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.Admin.resources
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.fLogin.resources
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.Properties.Resources.resources
+D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.SignUp.resources
+D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.TableManager.resources
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản lý quán caffe.csproj.GenerateResource.cache
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản lý quán caffe.csproj.CoreCompileInputs.cache
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản lý quán caffe.exe
 D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản lý quán caffe.pdb
-D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.SignUp.resources
-D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.TableManager.resources
-D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\obj\Debug\Quản_lý_quán_caffe.Admin.resources
+D:\HUst\Project2\Quản lý quán caffe\Quản lý quán caffe\bin\Debug\Quản lý quán caffe.pdb

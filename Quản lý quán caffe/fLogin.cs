@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Quản_lý_quán_caffe.DAO;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -26,13 +27,23 @@ namespace Quản_lý_quán_caffe
         }
 
         private void btnLogin_Click(object sender, EventArgs e)
+        {   
+            string userName = txbUsername.Text;
+            string passWord = txbPassword.Text;
+            if (Login(userName, passWord)) {
+                Admin admin = new Admin();
+                this.Hide();
+                admin.ShowDialog();
+                this.Show();
+            }
+            else
+                {
+                MessageBox.Show("Sai toàn khoản hoặc mật khẩu.");
+                }
+        }
+        bool Login(string userName, string passWord)
         {
-           // TableManager tableManager = new TableManager();
-           Admin admin = new Admin();
-            this.Hide();
-            //tableManager.ShowDialog();
-            admin.ShowDialog();
-            this.Show();
+            return AccountDAO.Instance.Login(userName, passWord);
         }
     }
 }
